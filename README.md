@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @linerunnerPrime
+- 👋 Hi, I’m linerunner. (@linerunnerPrime)
+-   You've probably met me if you came here after visiting hacker summercamp in Vegas.
 - 👀 I’m interested in graduating college without dying in the process.
-
 - 📫 How to reach me (....don't)
 
 <!---
